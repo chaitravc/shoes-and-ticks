@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(232, 246, 204);
+    
+}
+
+
+
+
+
+h1{
+    text-align: center;
+}
+
+input,textarea{
+    border: 2px solid black;
+    border-radius: 6px;
+    width: 234px;
+    height: 35px;
+    transition: all 1s;
+}
+button{
+    background-color: rgb(246, 238, 224);
+    padding: 13px;
+    border-radius: 6px;
+    margin: 1em;
+    width: 142px;
+}
+ button:hover{
+    background-color: rgb(110, 65, 32);
+    color: aliceblue;
+    scale: 1.1;
+    transition: all 0.5s;
+} 
